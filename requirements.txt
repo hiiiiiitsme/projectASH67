@@ -1,0 +1,19 @@
+# Core
+torch>=2.0.0
+pandas
+numpy
+python-dotenv
+
+# Data & Physics
+requests
+sunpy[all]
+astropy
+
+# ML & Stats
+scikit-learn
+matplotlib
+seaborn
+plotly
+
+# Interface
+streamlit
